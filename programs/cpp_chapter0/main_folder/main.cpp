@@ -2,9 +2,9 @@
 
 int main()
 {
-    int x {};
-    int y {};
-    int z {};
+    int x{};
+    int y{};
+    int z{};
 
     std::cout << "Enter 3 numbers: ";
     std::cin >> x >> y >> z;
