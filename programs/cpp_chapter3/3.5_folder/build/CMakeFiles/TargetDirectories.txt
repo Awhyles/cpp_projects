@@ -1,0 +1,3 @@
+/home/alfiew/Documents/code_projects/cpp_projects/programs/cpp_chapter3/3.5_folder/build/CMakeFiles/testc3.dir
+/home/alfiew/Documents/code_projects/cpp_projects/programs/cpp_chapter3/3.5_folder/build/CMakeFiles/edit_cache.dir
+/home/alfiew/Documents/code_projects/cpp_projects/programs/cpp_chapter3/3.5_folder/build/CMakeFiles/rebuild_cache.dir

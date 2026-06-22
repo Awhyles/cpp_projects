@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/testc3.dir/link.d CMakeFiles/testc3.dir/testc3.cpp.o -o testc3  /usr/lib/libspdlog.so.1.17.0 /usr/lib/libfmt.so.12.2.0
